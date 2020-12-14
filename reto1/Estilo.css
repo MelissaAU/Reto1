@@ -1,0 +1,41 @@
+#boton{
+    margin-left: 30px;
+    border: hidden;
+    background-color: white;
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 14px;
+    font-size: 10px;
+    
+}
+.Contenedor{
+    display: inline-block;
+    margin: 30px;
+    background-color:rgb(236, 242, 253) ;
+    border: hidden;
+}
+
+#body{
+    background-color:rgb(236, 242, 253);
+}
+
+h1{
+    text-align: center;
+    font: bold 100% Helvetica;
+}
+
+.card-body{
+    background-color:rgb(236, 242, 253) ;
+    border: hidden;   
+}
+
+.card-title{
+    text-align: center;
+    border: hidden;
+    
+}
+
+.card-text{
+    text-align: center;
+    border: hidden;
+}
